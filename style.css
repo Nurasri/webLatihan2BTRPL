@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	font-family: Arial;
+}
+.header{
+	background-color: #964b00;
+	padding:20px;
+	text-align: center;
+	color: white;
+}
+.sidebar{
+	background-color: grey;
+	width: 35%;
+	height: 300px;
+	text-align: left;
+	color: white;
+	float: left;
+	padding-left: 20px;
+}
+.content{
+	background-color: white;
+	width: 65%;
+	height: 300px;
+	text-align: justify;
+	float: left;
+	padding-left: 20px;
+}
+.footer{
+	background-color: #964b00;
+	text-align: center;
+	color: white;
+	padding: 15px;
+	clear: both;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+
+
